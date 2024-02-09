@@ -1,4 +1,4 @@
-#This is Capital Bank Clone, It is currently undergoing revisions.
+#This is Kapital Bank Clone, It is currently undergoing revisions.
 
 # Getting Started with Create React App
 
